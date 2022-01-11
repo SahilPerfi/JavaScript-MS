@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(77, 78, 78, 0.637);
+    text-align:center;
+}
+
+.about{
+    margin:90px;
+    padding:60px;
+    border: 5px solid black;
+    border-radius: 20px;
+}  
+
+.about p{
+    font-size:20px;
+    line-height:30px;
+}  
+
+h1{
+    font-size: 50px;
+}
