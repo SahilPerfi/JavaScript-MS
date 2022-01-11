@@ -7,7 +7,7 @@ function purchase(){
             'Amount left is' + remainingAmount,
         )
     } else if(amount>= 20){
-        remainingAmount = amount -20
+        remainingAmount = amount - 20
         alert('Amount left is ' + remainingAmount)
     } else if (amount == ''){
         alert('Enter Amount')
